@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 Hello World!
+Ludvig changed this file
+
 
 this is Filip
 
