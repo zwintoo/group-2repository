@@ -1,12 +1,27 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
 Hello World!
 <<<<<<< Updated upstream
 Ludvig changed this file
+
+
+this is Filip
+
+adsasd
+=======
+Hello World! blurp toooook
+>>>>>>> 1356c84e7de07739ed05614785ab0600b9331687
+=======
+Hello World! blurp toooook
+
+WoooooooW
+>>>>>>> f071612cabb3ee33b951a362115aee39cd3c5f74
 
 fdgkljhsdfkjghfsdljkghdflsjghljsdhglkdsfhglkjdfhgjlkdfh fjfgjgfoidsjhghklfdjhgklsgfhn
 
 
 
-
+ fdskljhgjkldfhglkjdfh vjfgkjl;dfgjnkl; JKL; e tjikl ;efsdg JKL;fgsdjkl; erstaggjkl; sefgr ijo; ndfgse jko;l sdefgthj;ikldefgrshi;ojlaerstwhi;lo rstae h;jkl teras h;jkl ster h;kjl rst e
 The art of Waldorf
 
 Före tiden existerade fanns Waldorf. Waldorf skapade jorden, den första och heligaste platsen han skapade var Kina. Han skapade också en försvarare av Kina, den Kinesiska draken. Kina höll dock på att falla på grund av matbrist, och Waldorf stoppade detta genom att ge Kina den godaste maten som fanns bland alla Waldorf himlarna. 
