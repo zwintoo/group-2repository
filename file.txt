@@ -142,4 +142,13 @@ Ludvig changed this fileHello World!
 Ludvig changed this fileHello World!
 Ludvig changed this fileHello World!
 Ludvig changed this file
+<<<<<<< Updated upstream
 detta var en stash innan, #THanos
+=======
+>>>>>>> Stashed changes
+>>>>>>> e78ba1aac231dddd17c39db6ceee1e7eba7bdbb0
+>>>>>>> a3030422e750e7a34addac4c5e8e01309ff645c7
+
+
+LAÖLKJASFDLKASJFD;:SAKHFASLKJDHL KUUUUUUUUUUUUUUUUUUUL
+>>>>>>> Stashed changes
