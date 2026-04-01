@@ -1,5 +1,15 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
 Hello World!
 
 this is Filip
 
 adsasd
+=======
+Hello World! blurp toooook
+>>>>>>> 1356c84e7de07739ed05614785ab0600b9331687
+=======
+Hello World! blurp toooook
+
+WoooooooW
+>>>>>>> f071612cabb3ee33b951a362115aee39cd3c5f74
